@@ -8,7 +8,7 @@ Enlace a mi portafolio https://gisellethourey.github.io/portafolio.html
 
 Primer fork y cuatro commits: https://github.com/gisellethourey/notnowsista.github.io
 
-Segunfdo for y tres commits: https://github.com/gisellethourey/Anayamaraya.github.io
+Segundo fork y tres commits: https://github.com/gisellethourey/Anayamaraya.github.io
 
 
 
