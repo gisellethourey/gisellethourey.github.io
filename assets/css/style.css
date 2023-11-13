@@ -9,6 +9,14 @@ p{
     font-size:50px;
 }
 
+/*Se agrega icono de githunb en footer - (por Andres Gallo) */
+.footer-container{
+    color:white;
+    width:100%;
+    display:block;
+    padding:20px 0;
+}
+
 @media (max-width: 480px) {
     .navbar{
         columns: 1;
@@ -16,7 +24,8 @@ p{
     .col{
         margin-left:3px;
         margin-right:20px;
-        padding:20px;
+        padding:20px 0;
+        margin:0 20px;
     }
     
     .nav-item{
